@@ -1,0 +1,12 @@
+#restrict-size {
+   padding: 10px;
+   margin: 10px;
+   background-color: chartreuse;
+   border: 3px dotted red;
+}
+
+
+
+body {
+    background-image: url('https://www.bing.com/th/id/OIP.tXSMiqOyJBi6zbq8AwttBgHaHV?w=193&h=191&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2')
+}
